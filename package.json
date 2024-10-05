@@ -1,0 +1,26 @@
+{
+  "name": "localg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritik-Singh21/localg.git"
+  },
+  "author": "Ritik singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritik-Singh21/localg/issues"
+  },
+  "homepage": "https://github.com/Ritik-Singh21/localg#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
